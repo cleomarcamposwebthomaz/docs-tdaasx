@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-z6f715.indcuan.cfd/sitemap.xml
